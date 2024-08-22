@@ -1,0 +1,32 @@
+body {
+   color:aliceblue;
+   background: black;
+   margin: 10%;
+   margin-left: 0px;
+   padding-top: 0px;
+   margin-top: 0px;
+   padding-bottom: 0px;
+}
+header{
+   display: flex  ;
+   text-justify: auto;
+   border-bottom: solid 2px;
+   padding: 0px;
+   font-size: xx-large;
+}
+tesao{
+   margin-top: 100%;
+   margin-bottom: 100%;
+   margin-right: 100%;
+   color: blue;
+}
+tesao:hover{
+   color: royalblue;
+}
+neimar{
+   opacity: 0.2;
+}
+
+neimar:hover{
+   opacity: 1;
+}
